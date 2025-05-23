@@ -1,0 +1,67 @@
+*{
+    padding: 1px;
+    margin: 1px;
+  }
+  .HATEND{
+    width: auto;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 20px;
+  }
+  HATEND ul li{
+    display: flex;
+    align-items: center;
+  }
+  body{
+    background-color: aqua;
+}
+.tab table{
+  width: 1360px;
+  height: 200px;
+  background-color: blue;
+  color: aliceblue;
+}
+table tr th{
+  font-size: 25px;
+  font-family: Times New Roman;
+  padding: 45px;
+  align-items: center;
+text-decoration: center;
+
+}
+tr td{
+  padding: 20px;
+  
+  
+}
+image{
+  padding: 30px;
+  margin:center;
+  padding:30px;
+  margin: top 2px;
+}
+  ul li {
+    display: flex;
+    display: inline;
+    padding: 25px;
+    font-size: 30px;
+    font-family: arial; 
+  }
+  ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+  }
+  ul li a:hover{
+    color: rgb(235, 8, 8);
+  }
+  #sec{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(45, 180, 0);
+    border-radius: 10px;
+  }

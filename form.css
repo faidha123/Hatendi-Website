@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+  .HATEND{
+    width: auto;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 20px;
+  }
+  HATEND ul li{
+    display: flex;
+    align-items: center;
+  }
+  body{
+    background-color: aqua;
+  }
+  ul li {
+    display: flex;
+    display: inline;
+    padding: 25px;
+    font-size: 30px;
+    font-family: arial;
+    
+  }
+  ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+  }
+  ul li a:hover{
+    color: rgb(235, 8, 8);
+  }
+  #sec{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  .button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(45, 180, 0);
+    border-radius: 10px;
+  }
